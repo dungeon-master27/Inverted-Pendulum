@@ -4,4 +4,4 @@
 python free_fall_pendulum.py
 ```
 Freefall Inverted Pendulum System
-![Free fall Inverted Pendulum](media/freefall.gif)
+![Free fall Inverted Pendulum](freefall.gif)
