@@ -1,4 +1,4 @@
-# Inverted-Pendulum
+# Inverted-Pendulum On a Cart
 ### Inverted Pendulum only System
 ```
 python free_fall_pendulum.py
